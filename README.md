@@ -1,3 +1,3 @@
 # sols.rp
 system jawa
-jawa jawa
+jawa ja
